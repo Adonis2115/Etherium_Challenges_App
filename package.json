@@ -36,7 +36,6 @@
     "precommit": "lint-staged",
     "vercel": "yarn workspace @se-2/nextjs vercel"
   },
-  "packageManager": "yarn@3.2.3",
   "devDependencies": {
     "@types/bn.js": "^5.1.6",
     "@types/dotenv": "^8.2.3",
